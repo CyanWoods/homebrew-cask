@@ -1,6 +1,6 @@
 cask "textsniper-paddle" do
-  version "1.11"
-  sha256 "701515743423d8189b714e04d745db72027080cfeffc0c733118c338e397fcaa"
+  version "1.12.0"
+  sha256 "3c65e5166a42df1cd9bbbb751abf7c338204c030e75b19ebe2c7ca63d618dbf7"
 
   url "https://s3.amazonaws.com/textsniper.app/TextSniper#{version}.dmg"
   name "TextSniper@paddle"
